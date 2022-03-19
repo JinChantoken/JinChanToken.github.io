@@ -1,0 +1,2 @@
+(self.webpackChunkjin_chan=self.webpackChunkjin_chan||[]).push([[218],{938:function(n,e,t){"use strict";t.r(e);var u=t(7294);e.default=function(){return u.createElement("main",null,u.createElement("p",null,"Sorry, page not found!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-6712e2e1a8fcacca6c26.js.map
